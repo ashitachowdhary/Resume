@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+    background-color:antiquewhite;
+}
+header{
+    text-align:center;
+}
+
+ul{
+    list-style: none;
+    padding-left: 0;
+    
+}
+
+#profile-pic{
+    display:block;
+    width: 150px;
+    height:150px;
+    border-radius: 20px;
+    margin: 10px auto;
+    object-fit: cover; 
+}
+#contact{
+    background-color: hotpink;
+     padding: 5px;
+     border-radius: 20px;
+     margin: 20px auto;
+     max-width: 500px; 
+}
+#education{
+    background-color: aqua;
+    padding:10px;
+    border-radius: 20px;
+    margin:20px auto;
+    max-width: 500px;
+}
+#Skills{
+    background-color: hotpink;
+     padding: 5px;
+     border-radius: 20px;
+     margin: 20px auto;
+     max-width: 500px; 
+}
+#Projects{
+    background-color: aqua;
+    padding:10px;
+    border-radius: 20px;
+    margin:20px auto;
+    max-width: 500px;
+
+}
